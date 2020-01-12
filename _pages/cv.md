@@ -9,51 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
+* Ph.D in Computational Science and Engineering, Georgia Institute of Technology, 2019.5 - now, advisor: Prof. [Edmond Chow](https://www.cc.gatech.edu/~echow/)
+* M.S. in Computer Science, Georgia Institute of Technology, 2017.8 - 2019.5, advisor: Prof. [Edmond Chow](https://www.cc.gatech.edu/~echow/)
+* B.S. in Information and Computing Science, Sun Yat-sen University, 2013.8 - 2017.6, advisor: Dr. [Weicai Ye](https://www.researchgate.net/scientific-contributions/2033993793_Weicai_Ye) （叶纬材博士）
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
+## Publications
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+## Working Experience
+* Graduate Research Assistant, Georgia Institute of Technology
+  * 2018.1 - now
+  * Supervisor: Prof. [Edmond Chow](https://www.cc.gatech.edu/~echow/)
+  * Performance optimization for computational chemistry applications
+
+* Assistant Engineer, HPC Department of National Super-Computing Center in Shenzhen
+  * 2015.8 - 2015.9
+  * Supervisor: Dr. [Jianwen Liu](https://www.researchgate.net/profile/Jianwen_Liu) （刘建文博士）
+  * Performance tuning for HPC applications (VASP, Amber)
+  * Customer technical support
   
-Talks
-======
+## Skills
+* Programming Languages
+  * Proficient: C, MATLAB
+  * Can Google: C++11 or earlier, Fortran, Python, LaTeX
+* Programming Framework
+  * Proficient: OpenMP, MPI
+  * Experienced: x86 intrinsic, CUDA, OpenCL
+* Computer related:
+  * Linux (used Linux distros: Ubuntu, CentOS, Arch) commands and git
+  * Assembling my desktop hardware and hotwiring it
+
+
+
+<!--
+#Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
+
+#Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-->
