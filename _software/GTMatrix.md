@@ -22,4 +22,4 @@ GTMatrix supports three access modes:
 
 If you use GTMatrix in your work, please cite the following paper:
 
-**Hua Huang**, C. David Sherrill, and Edmond Chow, *Techniques for High-Performance Construction of Fock Matrices*, Journal of Chemical Physics (accepted)
+**Hua Huang**, C. David Sherrill, and Edmond Chow, *Techniques for High-Performance Construction of Fock Matrices*, Journal of Chemical Physics, **152**, 024122 (2020)
