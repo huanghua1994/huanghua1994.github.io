@@ -11,7 +11,7 @@ redirect_from:
 
 ## Education
 * Ph.D in Computational Science and Engineering, Georgia Institute of Technology, 2019.5 - now, advisor: Prof. [Edmond Chow](https://www.cc.gatech.edu/~echow/)
-* M.S. in Computer Science, Georgia Institute of Technology, 2017.8 - 2019.5, advisor: Prof. [Edmond Chow](https://www.cc.gatech.edu/~echow/)
+* M.S. in Computer Science, Georgia Institute of Technology, 2017.8 - 2019.5, advisor: Prof. Edmond Chow
 * B.S. in Information and Computing Science, Sun Yat-sen University, 2013.8 - 2017.6, advisor: Dr. [Weicai Ye](https://www.researchgate.net/scientific-contributions/2033993793_Weicai_Ye) （叶纬材博士）
 
 ## Publications
@@ -22,7 +22,7 @@ redirect_from:
 ## Working Experience
 * Graduate Research Assistant, Georgia Institute of Technology
   * 2018.1 - now
-  * Supervisor: Prof. [Edmond Chow](https://www.cc.gatech.edu/~echow/)
+  * Supervisor: Prof. Edmond Chow
   * Performance optimization for computational chemistry applications
 
 * Assistant Engineer, HPC Department of National Super-Computing Center in Shenzhen
