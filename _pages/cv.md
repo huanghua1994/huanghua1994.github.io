@@ -20,11 +20,13 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Working Experience
+* Research Intern, Intel Corporation 
+  * 2020.8 - 2020.12
+  * Supervisor: Dr. [Jeff Hammond](https://jeffhammond.github.io/)
 * Graduate Research Assistant, Georgia Institute of Technology
-  * 2018.1 - now
+  * 2018.1 - 2020.8
   * Supervisor: Prof. Edmond Chow
   * Performance optimization for computational chemistry applications
-
 * Assistant Engineer, HPC Department of National Super-Computing Center in Shenzhen
   * 2015.8 - 2015.9
   * Supervisor: Dr. [Jianwen Liu](https://www.researchgate.net/profile/Jianwen_Liu) （刘建文博士）
