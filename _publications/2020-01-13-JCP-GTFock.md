@@ -2,7 +2,7 @@
 title: "Techniques for High-Performance Construction of Fock Matrices"
 collection: publications
 permalink: /publication/2020-01-13-JCP-GTFock
-date: 2020-01-01
+date: 2020-01-13
 venue: 'Journal of Chemical Physics, 152, 024122 (2020)'
 paperurl: 'https://huanghua1994.github.io/files/JCP-GTFock-Huang-Sherrill-Chow.pdf'
 ---
