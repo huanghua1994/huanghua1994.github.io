@@ -23,6 +23,7 @@ redirect_from:
 * Research Intern, Intel Corporation 
   * 2020.8 - 2020.12
   * Supervisor: Dr. [Jeff Hammond](https://jeffhammond.github.io/)
+  * PGAS frameworks on GPUs
 * Graduate Research Assistant, Georgia Institute of Technology
   * 2018.1 - 2020.8
   * Supervisor: Prof. Edmond Chow
@@ -39,7 +40,7 @@ redirect_from:
   * Can Google: C++11 or earlier, Fortran, Python, LaTeX
 * Programming Framework
   * Proficient: OpenMP, MPI
-  * Experienced: x86 intrinsic, CUDA, OpenCL
+  * Experienced: AVX intrinsic, SVE intrinsic, CUDA, OpenCL, SYCL
 * Computer related:
   * Linux (used Linux distros: Ubuntu, CentOS, Arch) commands and git
   * Assembling my desktop hardware and hotwiring it
