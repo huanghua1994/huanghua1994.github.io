@@ -20,6 +20,10 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Working Experience
+* Software Engineer Intern, Meta (Facebook) Inc
+  * 2021.5 - 2021.8
+  * Supervisor: Dr. [Xing Liu](https://scholar.google.com/citations?user=ewRsKt4AAAAJ&hl=en)
+  * PyTorch-based hierarchical parallelization Mixture of Experts (MoE) neural network layer implementation
 * Research Intern, Intel Corporation 
   * 2020.8 - 2020.12
   * Supervisor: Dr. [Jeff Hammond](https://jeffhammond.github.io/)
@@ -33,7 +37,7 @@ redirect_from:
   * Supervisor: Dr. [Jianwen Liu](https://www.researchgate.net/profile/Jianwen_Liu) （刘建文博士）
   * Performance tuning for HPC applications (VASP, Amber)
   * Customer technical support
-  
+
 ## Skills
 * Programming Languages
   * Proficient: C, MATLAB
@@ -42,7 +46,7 @@ redirect_from:
   * Proficient: OpenMP, MPI
   * Experienced: AVX intrinsic, SVE intrinsic, CUDA, OpenCL, SYCL
 * Computer related:
-  * Linux (used Linux distros: Ubuntu, CentOS, Arch) commands and git
+  * Linux commands and git
   * Assembling my desktop hardware and hotwiring it
 
 
