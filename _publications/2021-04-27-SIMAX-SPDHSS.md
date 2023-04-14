@@ -16,7 +16,7 @@ SIAM Journal on Matrix Analysis and Applications, 42(2), 683–707
 
 Bibtex:
 
-```bibtex
+```tex
 @article{xing2021,
     author = {Xing, Xin and Huang, Hua and Chow, Edmond},
     title = {Efficient Construction of an {HSS} Preconditioner for Symmetric Positive Definite \$\mathcal{H}^2\$ Matrices},

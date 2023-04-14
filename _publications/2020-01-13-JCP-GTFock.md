@@ -18,7 +18,7 @@ Note: The PDF file here is an updated version. Compared to the published version
 
 Bibtex:
 
-```bibtex
+```tex
 @article{huang2020jcp,
     title = {Techniques for high-performance construction of {Fock} matrices},
     volume = {152},

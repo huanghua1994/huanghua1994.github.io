@@ -16,9 +16,9 @@ ACM Transactions on Mathematical Software, 47 (1), 1-29
 
 Bibtex:
 
-```bibtex
+```tex
 @article{huang2020toms,
-    title = {{H2Pack}: High-performance \textit{{H}} $^{\textrm{2}}$ Matrix Package for Kernel Matrices Using the Proxy Point Method},
+    title = { {H2Pack}: High-performance \textit{{H}} $^{\textrm{2}}$ Matrix Package for Kernel Matrices Using the Proxy Point Method },
     volume = {47},
     issn = {0098-3500, 1557-7295},
     doi = {10.1145/3412850},
