@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at School of Computational Science and Engineering, Georgia Tech. My PhD advisor is Professor [Edmond Chow](https://www.cc.gatech.edu/~echow/). Before my PhD, I got my MS in CS at Georgia Tech (advisor: Prof. Edmond Chow), 2019. Before my MS, I got my BS in Information and Computing Science at Sun Yat-sen University, 2017.
+I am a PhD candidate at School of Computational Science and Engineering, Georgia Tech. My PhD advisor is Professor [Edmond Chow](https://www.cc.gatech.edu/~echow/). Before my PhD, I got my MS in CS at Georgia Tech (advisor: Prof. Edmond Chow), 2019. Before my MS, I got my BS in Information and Computing Science at Sun Yat-sen University, 2017.
 
 
 

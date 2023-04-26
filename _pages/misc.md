@@ -9,7 +9,8 @@ My Erdős number is 5 (previous node: Prof. Edmond Chow)
 
 My best 5km run scores: 
 
-* 22 minutes 57 seconds (2019 April 23, GaTech 2019 5km run, on-field)
+* ~~22 minutes 57 seconds (2019 April 23, GaTech 2019 5km run, on-field)~~
+* 21 minutes 25 seconds (2023 Apr 23, GaTech 2023 5km run, on-field)
 * 19 minutes 56 seconds (2022 March 16, GaTech 2022 5km run, virtual, on a treadmill)
 
 My GPG keys: 
