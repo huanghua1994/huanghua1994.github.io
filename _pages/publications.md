@@ -39,7 +39,7 @@ SIAM Journal on Scientific Computing *(accepted, to appear)*.
 
 [J.2]  <span style="color:blue">**[J. Comput. Phys.]**</span> *A Hierarchical Matrix Approach for Computing Hydrodynamic Interactions*.  
 [Xin Xing](https://sites.google.com/view/xinxing/home), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
-Journal of Computational Physics, 448, 110761 (2021).  
+Journal of Computational Physics, 448, 110761 (2022).  
 [pdf](https://huanghua1994.github.io/files/JCP-H2RPY-Xing-Huang-Chow.pdf){: .btn} [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0021999121006562){: .btn}
 
 [J.3]  <span style="color:blue">**[SoftwareX]**</span> *SPARC: Simulation Package for Ab-initio Real-space Calculations*.  
