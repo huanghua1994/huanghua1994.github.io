@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at School of Computational Science and Engineering, Georgia Tech. My PhD advisor is Professor [Edmond Chow](https://www.cc.gatech.edu/~echow/). Before my PhD, I got my MS in CS at Georgia Tech (advisor: Prof. Edmond Chow), 2019. Before my MS, I got my BS in Information and Computing Science at Sun Yat-sen University, 2017.
+I am a Ph.D. candidate in Computational Science and Engineering at Georgia Tech, where I was fortunate to be advised by [Prof. Edmond Chow](https://www.cc.gatech.edu/~echow/). My proposed Ph.D. dissertation title is "New Parallel Algorithms for Large-Scale Matrix Computations".
 
+During my Ph.D., I was luck to spend time at [Meta AI](https://ai.facebook.com/) with Dr. [Xing Liu](https://scholar.google.com/citations?user=ewRsKt4AAAAJ&hl=en), and [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html) with Dr. [Jeff Hammond](https://jeffhammond.github.io/).
 
+I received my M.S. in Computer Science from Georgia Tech, where I was fortunate to be advised by [Prof. Edmond Chow](https://www.cc.gatech.edu/~echow/). My M.S. thesis title was "[Performance Optimization for Quantum Chemistry Calculations](https://smartech.gatech.edu/handle/1853/62691)".
 
-My research interests include:
+I received my B.S. in Information and Computing Science from [Sun Yat-Sen University](https://www.sysu.edu.cn/sysuen/), where I was fortunate to be advised by Dr. [Weicai Ye](https://www.researchgate.net/scientific-contributions/2033993793_Weicai_Ye).
 
-* High-Performance computing and parallel computing
-* Computational chemistry
+My research interests includes:
 
+* High-performance computing  and parallel computing;
+* Matrix computation;
+* Computational chemistry;
+* Performance engineering.
 
-
-Email: huangh223 at gatech.edu / huangh1994 at outlook.com 
+I am always looking for new collaborators. Please don’t hesitate to reach out if you would like to hear more about my work or start a new collaboration! The best way to contact me is via email: huangh223 at gatech.edu / huangh1994 at outlook.com.
