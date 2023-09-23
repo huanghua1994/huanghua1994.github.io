@@ -7,6 +7,5 @@ tags:
 
 >  God's in his heaven, all's right with the world.
 
-
->  天堂下面是你们的天堂
+>  前面的区域，以后再来探索吧！
 

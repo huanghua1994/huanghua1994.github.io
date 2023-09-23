@@ -7,6 +7,8 @@ author_profile: true
 
 ## Contributed and Invited Talks
 
+* New Parallel Algorithms for Quantum Chemistry and Large-Scale Matrix Computation
+  * invited talk at Sun Yat-sen University (invited by Dr. [Yutong Lu](https://ieeexplore.ieee.org/author/37539055600)), Sep 2023
 * *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*, held at various occasions including:
   * paper presentation at SC22: International Conference for High Performance Computing, Networking, Storage and Analysis, Nov 2022;
   * lightening talk at GSCS 2022: Georgia Scientific Computing Symposium, Feb 2022.

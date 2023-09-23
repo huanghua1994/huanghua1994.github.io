@@ -20,10 +20,6 @@ redirect_from:
 
 ### Submitted Papers and Preprints
 
-[S.1]  <span style="color:blue">**[SC 23]**</span> *Communication-Reduced Sparse-Dense Matrix Multiplication with Adaptive Parallelization*.  
-**Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
-Submitted to: International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2023. 
-
 ### Conference Publications
 
 [C.1]  <span style="color:blue">**[SC 22]**</span> *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*.  
@@ -103,6 +99,8 @@ Journal of Chemical Physics, 152, 024122 (2020).
 
 ## Contributed and Invited Talks
 
+* New Parallel Algorithms for Quantum Chemistry and Large-Scale Matrix Computation
+  * invited talk at Sun Yat-sen University (invited by Dr. [Yutong Lu](https://ieeexplore.ieee.org/author/37539055600)), Sep 2023
 * *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*, held at various occasions including:
   * paper presentation at SC22: International Conference for High Performance Computing, Networking, Storage and Analysis, Nov 2022;
   * lightening talk at GSCS 2022: Georgia Scientific Computing Symposium, Feb 2022.
@@ -114,7 +112,6 @@ Journal of Chemical Physics, 152, 024122 (2020).
 * *Accelerating Quantum Chemistry with Vectorized and Batched Integrals*, held at various occasions including:
   * invited talk at Emory University (invited by Dr. [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html)), March 2019;
   * paper presentation at SC18: International Conference for High Performance Computing, Networking, Storage and Analysis, Nov 2018.
-
 
 
 ## Skills
