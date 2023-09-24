@@ -9,10 +9,6 @@ Publications are listed in reverse chronological order. The most up-to-date list
 
 ## Submitted Papers and Preprints
 
-[S.1]  <span style="color:blue">**[SC 23]**</span> *Communication-Reduced Sparse-Dense Matrix Multiplication with Adaptive Parallelization*.  
-**Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
-Submitted to: International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2023. 
-
 ## Conference Publications
 
 [C.1]  <span style="color:blue">**[SC 22]**</span> *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*.  
