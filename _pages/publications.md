@@ -11,7 +11,7 @@ Publications are listed in reverse chronological order. The most up-to-date list
 
 ## Conference Publications
 
-[C.1]  <span style="color:blue">**[SC 22]**</span> *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*.  
+[C.3]  <span style="color:blue">**[SC 22]**</span> *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*.  
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2022.  
 [pdf](https://huanghua1994.github.io/files/SC22-Huang-Chow.pdf){: .btn} [ACM (includes presentation video)](https://dl.acm.org/doi/abs/10.5555/3571885.3571922){: .btn} 
@@ -21,24 +21,24 @@ International Conference for High Performance Computing, Networking, Storage, an
 International Parallel & Distributed Processing Symposium (IPDPS), 2019.  
 [pdf](huanghua1994.github.io/files/IPDPS19-Huang-Chow.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/abstract/document/8821006){: .btn}
 
-[C.3]  <span style="color:blue">**[SC 18]**</span> *Accelerating Quantum Chemistry with Vectorized and Batched Integrals*.  
+[C.1]  <span style="color:blue">**[SC 18]**</span> *Accelerating Quantum Chemistry with Vectorized and Batched Integrals*.  
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2018.  
 [pdf](https://huanghua1994.github.io/files/SC18-Huang-Chow.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.5555/3291656.3291711){: .btn}
 
 ## Journal Publications
 
-[J.1]  <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *Data-Driven Construction of Hierarchical Matrices with Nested Bases*.  
+[J.7]  <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *Data-Driven Construction of Hierarchical Matrices with Nested Bases*.  
 [Difeng Cai](https://www.math.emory.edu/~dcai7/index.html), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).  
 SIAM Journal on Scientific Computing *(accepted, to appear)*.  
 [arxiv](https://arxiv.org/abs/2206.01885){: .btn} 
 
-[J.2]  <span style="color:blue">**[J. Comput. Phys.]**</span> *A Hierarchical Matrix Approach for Computing Hydrodynamic Interactions*.  
+[J.6]  <span style="color:blue">**[J. Comput. Phys.]**</span> *A Hierarchical Matrix Approach for Computing Hydrodynamic Interactions*.  
 [Xin Xing](https://sites.google.com/view/xinxing/home), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 Journal of Computational Physics, 448, 110761 (2022).  
 [pdf](https://huanghua1994.github.io/files/JCP-H2RPY-Xing-Huang-Chow.pdf){: .btn} [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0021999121006562){: .btn}
 
-[J.3]  <span style="color:blue">**[SoftwareX]**</span> *SPARC: Simulation Package for Ab-initio Real-space Calculations*.  
+[J.5]  <span style="color:blue">**[SoftwareX]**</span> *SPARC: Simulation Package for Ab-initio Real-space Calculations*.  
 [Qimen Xu](https://scholar.google.com/citations?hl=en&user=V6tGLpoAAAAJ&view_op=list_works&sortby=pubdate), [Abhiraj Sharma](https://scholar.google.com/citations?hl=en&user=IiQqaEwAAAAJ&view_op=list_works&sortby=pubdate),  [Benjamin Comer](https://scholar.google.com/citations?hl=en&user=3pZTa4wAAAAJ&view_op=list_works&sortby=pubdate), [Xin Xing](https://sites.google.com/view/xinxing/home), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), [Andrew J Medford](https://www.chbe.gatech.edu/people/andrew-j-medford), [John E Pask](https://people.llnl.gov/pask1), and [Phanish Suryanarayana](https://ce.gatech.edu/directory/person/phanish-suryanarayana).
 SoftwareX, 15, 100709 (2021).  
 [pdf](https://huanghua1994.github.io/files/SoftwareX-SPARC.pdf){: .btn} [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352711021000546){: .btn}
@@ -48,17 +48,17 @@ SoftwareX, 15, 100709 (2021).
 SIAM Journal on Matrix Analysis and Applications, 42(2), 683–707 (2021).  
 [pdf](https://huanghua1994.github.io/files/SIMAX-SPDHSS-Xing-Huang-Chow.pdf){: .btn} [SIAM](https://epubs.siam.org/doi/abs/10.1137/20M1365776){: .btn}
 
-[J.5]  <span style="color:blue">**[ACM Trans. Math. Softw]**</span> *H2Pack: High-Performance H2 Matrix Package for Kernel Matrices Using the Proxy Point Method*.  
+[J.3]  <span style="color:blue">**[ACM Trans. Math. Softw]**</span> *H2Pack: High-Performance H2 Matrix Package for Kernel Matrices Using the Proxy Point Method*.  
 **Hua Huang**, [Xin Xing](https://sites.google.com/view/xinxing/home), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 ACM Transactions on Mathematical Software, 47 (1), 1-29 (2020).  
 [pdf](https://huanghua1994.github.io/files/ACMTOMS-H2Pack-Huang-Xing-Chow.pdf){: .btn} [ACM](https://dl.acm.org/doi/abs/10.1145/3412850){: .btn}
 
-[J.6]  <span style="color:blue">**[J. Chem. Phys.]**</span> *A Linear Scaling Hierarchical Block Low-rank Representation of the Electron Repulsion Integral Tensor*.   
+[J.2]  <span style="color:blue">**[J. Chem. Phys.]**</span> *A Linear Scaling Hierarchical Block Low-rank Representation of the Electron Repulsion Integral Tensor*.   
 [Xin Xing](https://sites.google.com/view/xinxing/home), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 Journal of Chemical Physics, 153, 084119 (2020).   
 [pdf](https://huanghua1994.github.io/files/JCP-H2ERI-Xing-Huang-Chow.pdf){: .btn} [AIP](https://pubs.aip.org/aip/jcp/article/153/8/084119/1061798/A-linear-scaling-hierarchical-block-low-rank){: .btn}    
 
-[J.7]  <span style="color:blue">**[J. Chem. Phys.]**</span> *Techniques for High-Performance Construction of Fock Matrices*.  
+[J.1]  <span style="color:blue">**[J. Chem. Phys.]**</span> *Techniques for High-Performance Construction of Fock Matrices*.  
 **Hua Huang**, [David Sherrill](https://chemistry.gatech.edu/people/david-sherrill), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 Journal of Chemical Physics, 152, 024122 (2020).  
 [pdf](https://huanghua1994.github.io/files/JCP-GTFock-Huang-Sherrill-Chow.pdf){: .btn} [AIP](https://pubs.aip.org/aip/jcp/article/152/2/024122/317608/Techniques-for-high-performance-construction-of){: .btn}  
