@@ -40,9 +40,9 @@ International Conference for High Performance Computing, Networking, Storage, an
 ## Journal Publications
 
 [J.7]  <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *Data-Driven Construction of Hierarchical Matrices with Nested Bases*.  
-[Difeng Cai](https://www.math.emory.edu/~dcai7/index.html), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).  
+[Difeng Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/DifengCai), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).  
 SIAM Journal on Scientific Computing *(accepted, to appear)*.  
-[arxiv](https://arxiv.org/abs/2206.01885){: .btn} 
+[pdf](https://huanghua1994.github.io/files/SIMAX-HiDR.pdf){: .btn} [SIAM](https://epubs.siam.org/doi/full/10.1137/22M1500848){: .btn}
 
 [J.6]  <span style="color:blue">**[J. Comput. Phys.]**</span> *A Hierarchical Matrix Approach for Computing Hydrodynamic Interactions*.  
 [Xin Xing](https://sites.google.com/view/xinxing/home), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
