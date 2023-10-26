@@ -10,11 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D. in Computational Science and Engineering, Georgia Institute of Technology, 2019.5 - 2024.8 (expected), advisor: Prof. [Edmond Chow](https://www.cc.gatech.edu/~echow/)
-* M.S. in Computer Science, Georgia Institute of Technology, 2017.8 - 2019.5, advisor: Prof. [Edmond Chow](https://www.cc.gatech.edu/~echow/)
-* B.S. in Information and Computing Science, Sun Yat-sen University, 2013.8 - 2017.6, advisor: Dr. [Weicai Ye](https://www.researchgate.net/scientific-contributions/2033993793_Weicai_Ye) （叶纬材博士）
-
-
+* Ph.D. in Computational Science and Engineering, Georgia Institute of Technology, 2019.5 - 2024.8 (expected), advisor: [Prof. Edmond Chow](https://www.cc.gatech.edu/~echow/).
+* M.S. in Computer Science, Georgia Institute of Technology, 2017.8 - 2019.5, advisor: [Prof. Edmond Chow](https://www.cc.gatech.edu/~echow/).
+* B.S. in Information and Computing Science, Sun Yat-sen University, 2013.8 - 2017.6, advisor: Dr. Weicai Ye（叶纬材博士）.
 
 ## Publications
 
@@ -94,8 +92,6 @@ Journal of Chemical Physics, 152, 024122 (2020).
   * Performance tuning for HPC applications (VASP, Amber)
   * Customer technical support
 
-
-
 ## Contributed and Invited Talks
 
 * New Parallel Algorithms for Quantum Chemistry and Large-Scale Matrix Computation
@@ -112,6 +108,15 @@ Journal of Chemical Physics, 152, 024122 (2020).
   * invited talk at Emory University (invited by Dr. [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html)), March 2019;
   * paper presentation at SC18: International Conference for High Performance Computing, Networking, Storage and Analysis, Nov 2018.
 
+## Professional Service
+* SC24 Technical Program committee, AD/AE reproducibility
+* IPDPS24 Technical Program committee, Measurements, Modeling, and Experiments (MMEXP) track
+* SC19 Student Cluster Competition committee
+
+## Honors and Awards
+* 2023 ACM-IEEE CS George Michael Memorial HPC Fellowships Honorable Mention
+* 2020 Sigma Xi Best M.S. Thesis Research Award (Sigma Xi Georgia Tech Chapter)
+* 2019 Georgia Tech Marshall D. Williamson Fellowship
 
 ## Skills
 
