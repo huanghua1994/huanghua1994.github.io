@@ -39,8 +39,6 @@ redirect_from:
 
 * Programming languages: C, C++, MATLAB, Fortran, Python, LaTeX
 * Frameworks and technologies: OpenMP, MPI, CUDA, OpenCL, SYCL, x86 intrinsic, ARM (NEON and SVE) intrinsic
-* Computer related: Linux, git, makefile
-* Assembling my desktop hardware and hotwiring it
 
 ## Publications
 
@@ -77,27 +75,27 @@ SIAM Journal on Scientific Computing *(accepted, to appear)*.
 [pdf](https://huanghua1994.github.io/files/SIMAX-HiDR.pdf){: .btn} [SIAM](https://epubs.siam.org/doi/full/10.1137/22M1500848){: .btn}
 
 [J.6]  <span style="color:blue">**[J. Comput. Phys.]**</span> *A Hierarchical Matrix Approach for Computing Hydrodynamic Interactions*.  
-[Xin Xing](https://sites.google.com/view/xinxing/home), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
+[Xin Xing](https://scholar.google.com/citations?hl=en&user=NBdb9XoAAAAJ&view_op=list_works&sortby=pubdate), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 Journal of Computational Physics, 448, 110761 (2022).  
 [pdf](https://huanghua1994.github.io/files/JCP-H2RPY-Xing-Huang-Chow.pdf){: .btn} [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0021999121006562){: .btn}
 
 [J.5]  <span style="color:blue">**[SoftwareX]**</span> *SPARC: Simulation Package for Ab-initio Real-space Calculations*.  
-[Qimen Xu](https://scholar.google.com/citations?hl=en&user=V6tGLpoAAAAJ&view_op=list_works&sortby=pubdate), [Abhiraj Sharma](https://scholar.google.com/citations?hl=en&user=IiQqaEwAAAAJ&view_op=list_works&sortby=pubdate),  [Benjamin Comer](https://scholar.google.com/citations?hl=en&user=3pZTa4wAAAAJ&view_op=list_works&sortby=pubdate), [Xin Xing](https://sites.google.com/view/xinxing/home), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), [Andrew J Medford](https://www.chbe.gatech.edu/people/andrew-j-medford), [John E Pask](https://people.llnl.gov/pask1), and [Phanish Suryanarayana](https://ce.gatech.edu/directory/person/phanish-suryanarayana).
+[Qimen Xu](https://scholar.google.com/citations?hl=en&user=V6tGLpoAAAAJ&view_op=list_works&sortby=pubdate), [Abhiraj Sharma](https://scholar.google.com/citations?hl=en&user=IiQqaEwAAAAJ&view_op=list_works&sortby=pubdate),  [Benjamin Comer](https://scholar.google.com/citations?hl=en&user=3pZTa4wAAAAJ&view_op=list_works&sortby=pubdate), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), [Andrew J Medford](https://www.chbe.gatech.edu/people/andrew-j-medford), [John E Pask](https://people.llnl.gov/pask1), and [Phanish Suryanarayana](https://ce.gatech.edu/directory/person/phanish-suryanarayana).
 SoftwareX, 15, 100709 (2021).  
 [pdf](https://huanghua1994.github.io/files/SoftwareX-SPARC.pdf){: .btn} [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352711021000546){: .btn}
 
 [J.4]  <span style="color:blue">**[SIAM J. Matrix Anal. Appl.]**</span> *Efficient Construction of an HSS Preconditioner for Symmetric Positive Definite H2 Matrices*.  
-[Xin Xing](https://sites.google.com/view/xinxing/home), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
+[Xin Xing](https://scholar.google.com/citations?hl=en&user=NBdb9XoAAAAJ&view_op=list_works&sortby=pubdate), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 SIAM Journal on Matrix Analysis and Applications, 42(2), 683–707 (2021).  
 [pdf](https://huanghua1994.github.io/files/SIMAX-SPDHSS-Xing-Huang-Chow.pdf){: .btn} [SIAM](https://epubs.siam.org/doi/abs/10.1137/20M1365776){: .btn}
 
 [J.3]  <span style="color:blue">**[ACM Trans. Math. Softw]**</span> *H2Pack: High-Performance H2 Matrix Package for Kernel Matrices Using the Proxy Point Method*.  
-**Hua Huang**, [Xin Xing](https://sites.google.com/view/xinxing/home), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
+**Hua Huang**, [Xin Xing](https://scholar.google.com/citations?hl=en&user=NBdb9XoAAAAJ&view_op=list_works&sortby=pubdate), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 ACM Transactions on Mathematical Software, 47 (1), 1-29 (2020).  
 [pdf](https://huanghua1994.github.io/files/ACMTOMS-H2Pack-Huang-Xing-Chow.pdf){: .btn} [ACM](https://dl.acm.org/doi/abs/10.1145/3412850){: .btn}
 
 [J.2]  <span style="color:blue">**[J. Chem. Phys.]**</span> *A Linear Scaling Hierarchical Block Low-rank Representation of the Electron Repulsion Integral Tensor*.   
-[Xin Xing](https://sites.google.com/view/xinxing/home), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
+[Xin Xing](https://scholar.google.com/citations?hl=en&user=NBdb9XoAAAAJ&view_op=list_works&sortby=pubdate), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 Journal of Chemical Physics, 153, 084119 (2020).   
 [pdf](https://huanghua1994.github.io/files/JCP-H2ERI-Xing-Huang-Chow.pdf){: .btn} [AIP](https://pubs.aip.org/aip/jcp/article/153/8/084119/1061798/A-linear-scaling-hierarchical-block-low-rank){: .btn}    
 
