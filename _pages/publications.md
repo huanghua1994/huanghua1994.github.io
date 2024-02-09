@@ -7,9 +7,15 @@ author_profile: true
 
 Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Mi2kiPAAAAAJ&view_op=list_works&sortby=pubdate). The bibtex file for all my published papers can be downloaded [here](https://huanghua1994.github.io/files/huahuang_publications.bib).
 
-## Submitted Papers and Preprints
+### Submitted Papers and Preprints
 
-## Conference Publications
+[S.2] *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*.
+**Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).
+
+[S.1] *An Adaptive Factorized Nystrom Preconditioner for Kernel Matrices*. 
+[Shifan Zhao](https://matherheart.github.io/), [Tianshi Xu](https://math.emory.edu/~txu41/), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).
+
+## Peer-reviewed Conference Publications
 
 [C.3]  <span style="color:blue">**[SC 22]**</span> *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*.  
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
@@ -26,7 +32,7 @@ International Parallel & Distributed Processing Symposium (IPDPS), 2019.
 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2018.  
 [pdf](https://huanghua1994.github.io/files/SC18-Huang-Chow.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.5555/3291656.3291711){: .btn}
 
-## Journal Publications
+## Peer-reviewed Journal Publications
 
 [J.7]  <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *Data-Driven Construction of Hierarchical Matrices with Nested Bases*.  
 [Difeng Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/DifengCai), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).  

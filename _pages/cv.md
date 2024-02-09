@@ -14,11 +14,45 @@ redirect_from:
 * M.S. in Computer Science, Georgia Institute of Technology, 2017.8 - 2019.5, advisor: [Prof. Edmond Chow](https://www.cc.gatech.edu/~echow/).
 * B.S. in Information and Computing Science, Sun Yat-sen University, 2013.8 - 2017.6, advisor: Dr. Weicai Ye（叶纬材博士）.
 
+## Work Experience
+
+* Graduate Research Assistant, Georgia Institute of Technology
+  * 2018.1 - 2023.8
+  * Supervisor: Prof. [Edmond Chow](https://faculty.cc.gatech.edu/~echow/)
+* Software Engineer Intern, Meta (Facebook) Inc
+  * 2021.5 - 2021.8
+  * Supervisor: Dr. [Xing Liu](https://scholar.google.com/citations?user=ewRsKt4AAAAJ&hl=en)
+  * Analyzed the performance of different parallel Mixtures of Experts (MoE) layer implementations.
+  * Developed a PyTorch-based hybrid parallel MoE layer for a recommendation system.
+* Research Intern, Intel Corporation 
+  * 2020.8 - 2020.12
+  * Supervisor: Dr. [Jeff Hammond](https://jeffhammond.github.io/)
+  * Developed CU-PGAS: Partitioned global address space (PGAS) library using CUDA + MPI-3 for NVIDIA GPU.
+  * Developed CL-PGAS: Portable (Intel / NVIDIA / AMD) GPU PGAS library using SYCL + MPI-3.
+* Assistant Engineer, HPC Department of National Super-Computing Center in Shenzhen
+  * 2015.8 - 2015.9
+  * Supervisor: Dr. [Jianwen Liu](https://www.researchgate.net/profile/Jianwen_Liu) （刘建文博士）
+  * Optimized the performance of two major applications in NSCC-SC: VASP (25%) and Amber (30%).
+  * Provided customer technical consultation and support.
+
+## Skills
+
+* Programming languages: C, C++, MATLAB, Fortran, Python, LaTeX
+* Frameworks and technologies: OpenMP, MPI, CUDA, OpenCL, SYCL, x86 intrinsic, ARM (NEON and SVE) intrinsic
+* Computer related: Linux, git, makefile
+* Assembling my desktop hardware and hotwiring it
+
 ## Publications
 
 ### Submitted Papers and Preprints
 
-## Conference Publications
+[S.2] *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*.
+**Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).
+
+[S.1] *An Adaptive Factorized Nystrom Preconditioner for Kernel Matrices*. 
+[Shifan Zhao](https://matherheart.github.io/), [Tianshi Xu](https://math.emory.edu/~txu41/), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).
+
+## Peer-reviewed Conference Publications
 
 [C.3]  <span style="color:blue">**[SC 22]**</span> *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*.  
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
@@ -35,7 +69,7 @@ International Parallel & Distributed Processing Symposium (IPDPS), 2019.
 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2018.  
 [pdf](https://huanghua1994.github.io/files/SC18-Huang-Chow.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.5555/3291656.3291711){: .btn}
 
-## Journal Publications
+## Peer-reviewed Journal Publications
 
 [J.7]  <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *Data-Driven Construction of Hierarchical Matrices with Nested Bases*.  
 [Difeng Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/DifengCai), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).  
@@ -72,63 +106,46 @@ Journal of Chemical Physics, 153, 084119 (2020).
 Journal of Chemical Physics, 152, 024122 (2020).  
 [pdf](https://huanghua1994.github.io/files/JCP-GTFock-Huang-Sherrill-Chow.pdf){: .btn} [AIP](https://pubs.aip.org/aip/jcp/article/152/2/024122/317608/Techniques-for-high-performance-construction-of){: .btn} 
 
-
-## Work Experience
-
-* Graduate Research Assistant, Georgia Institute of Technology
-  * 2018.1 - 2023.8
-  * Supervisor: Prof. [Edmond Chow](https://faculty.cc.gatech.edu/~echow/)
-* Software Engineer Intern, Meta (Facebook) Inc
-  * 2021.5 - 2021.8
-  * Supervisor: Dr. [Xing Liu](https://scholar.google.com/citations?user=ewRsKt4AAAAJ&hl=en)
-  * PyTorch-based hierarchical parallelization for Mixture of Experts (MoE) neural network architecture
-* Research Intern, Intel Corporation 
-  * 2020.8 - 2020.12
-  * Supervisor: Dr. [Jeff Hammond](https://jeffhammond.github.io/)
-  * PGAS frameworks on GPUs
-* Assistant Engineer, HPC Department of National Super-Computing Center in Shenzhen
-  * 2015.8 - 2015.9
-  * Supervisor: Dr. [Jianwen Liu](https://www.researchgate.net/profile/Jianwen_Liu) （刘建文博士）
-  * Performance tuning for HPC applications (VASP, Amber)
-  * Customer technical support
-
 ## Contributed and Invited Talks
 
+* Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication
+  * invited talk at PP24: SIAM Conference on Parallel Processing for Scientific Computing (invited by Dr. [Georg Hager](https://hpc.fau.de/person/georg-hager/)), May 2024;
 * New Parallel Algorithms for Quantum Chemistry and Large-Scale Matrix Computation
-  * invited talk at Sun Yat-sen University (invited by Dr. [Yutong Lu](https://ieeexplore.ieee.org/author/37539055600)), Sep 2023
+  * invited talk at Sun Yat-sen University (invited by [Dr. Yutong Lu](https://ieeexplore.ieee.org/author/37539055600)), Sep 2023
 * *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*, held at various occasions including:
   * paper presentation at SC22: International Conference for High Performance Computing, Networking, Storage and Analysis, Nov 2022;
   * lightening talk at GSCS 2022: Georgia Scientific Computing Symposium, Feb 2022.
 * *Towards Portable PGAS on GPUs*
-  * invited talk at AN21: SIAM Annual Meeting 2021 (invited by Dr. [Min Si](https://minsii.github.io/)), July 2021.
+  * invited talk at AN21: SIAM Annual Meeting 2021 (invited by [Dr. Min Si](https://minsii.github.io/)), July 2021.
 * *Overlapping Communications with Other Communications and its Application to Distributed Dense Matrix Computations*, held at various occasions including:
-  * invited talk at PP20: SIAM Conference on Parallel Processing for Scientific Computing (invited by Dr. [Roel Van Beeumen](http://www.roelvanbeeumen.be/drupal8/)), Feb 2020;  
+  * invited talk at PP20: SIAM Conference on Parallel Processing for Scientific Computing (invited by [Dr. Roel Van Beeumen](http://www.roelvanbeeumen.be/drupal8/)), Feb 2020;  
   * paper presentation at IPDPS19: IEEE International Parallel and Distributed Processing Symposium , May 2019.
 * *Accelerating Quantum Chemistry with Vectorized and Batched Integrals*, held at various occasions including:
-  * invited talk at Emory University (invited by Dr. [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html)), March 2019;
+  * invited talk at Emory University (invited by [Dr. Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html)), March 2019;
   * paper presentation at SC18: International Conference for High Performance Computing, Networking, Storage and Analysis, Nov 2018.
 
 ## Professional Service
-* SC24 Technical Program committee, AD/AE reproducibility
-* IPDPS24 Technical Program committee, Measurements, Modeling, and Experiments (MMEXP) track
-* SC19 Student Cluster Competition committee
+
+### Reviewer for conferences
+
+* International Conference for High‑Performance Computing, Networking, Storage, and Analysis (SC)
+  * SC24, technical program committee: AD/AE reproducibility
+* IEEE International Parallel & Distributed Processing Symposium (IPDPS)
+  * IPDPS24, technical program committee: Measurements, Modeling, and Experiments (MMEXP) track
+
+### Reviewer for journal
+
+* Journal of Supercomputing
+
+### Program committees
+
+* SC19 student cluster competition
 
 ## Honors and Awards
+
 * 2023 ACM-IEEE CS George Michael Memorial HPC Fellowships Honorable Mention
 * 2020 Sigma Xi Best M.S. Thesis Research Award (Sigma Xi Georgia Tech Chapter)
 * 2019 Georgia Tech Marshall D. Williamson Fellowship
-
-## Skills
-
-* Programming Languages
-  * Proficient: C, MATLAB
-  * Can Google: C++14 or earlier, Fortran, Python, LaTeX
-* Programming Framework
-  * Proficient: OpenMP, MPI
-  * Experienced: AVX intrinsic, SVE intrinsic, CUDA, OpenCL, SYCL
-* Computer related:
-  * Linux commands and git
-  * Assembling my desktop hardware and hotwiring it
 
 
 
