@@ -32,8 +32,8 @@ International Conference for High Performance Computing, Networking, Storage, an
 ## Peer-reviewed Journal Publications
 
 [J.8] <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *An Adaptive Factorized Nystrom Preconditioner for Kernel Matrices*.
-[Shifan Zhao](https://matherheart.github.io/), [Tianshi Xu](https://math.emory.edu/~txu41/), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).
-SIAM Journal on Scientific Computing *(accepted, to appear)*.
+[Shifan Zhao](https://matherheart.github.io/), [Tianshi Xu](https://math.emory.edu/~txu41/), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).  
+SIAM Journal on Scientific Computing **(accepted, to appear)**.  
 [arXiv](https://arxiv.org/abs/2304.05460){: .btn}
 
 [J.7]  <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *Data-Driven Construction of Hierarchical Matrices with Nested Bases*.  
