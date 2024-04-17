@@ -14,48 +14,47 @@ redirect_from:
 * M.S. in Computer Science, Georgia Institute of Technology, 2017.8 - 2019.5, advisor: [Prof. Edmond Chow](https://www.cc.gatech.edu/~echow/).
 * B.S. in Information and Computing Science, Sun Yat-sen University, 2013.8 - 2017.6, advisor: Dr. Weicai Ye（叶纬材博士）.
 
+## Research Experience
+
+* Graduate Research Assistant, Georgia Institute of Technology (2018.1 - 2024.8, supervisor: Prof. [Edmond Chow](https://faculty.cc.gatech.edu/~echow/))
+  * Accelerating quantum chemistry calculations: up to 6x overall speedup of Hartree-Fock calculation for a 1208-atom molecular system with multiple optimizations.
+  * Developing the H2Pack library: up to 6x speedup over state-of-the-art FMM-based method in high-accuracy calculations, 90% memory usage reduction and a 7x speedup compared to contemporary methods for  quantum chemistry and hydrodynamic simulation calculations.
+  * Designing parallel linear algebra algorithms: up to 25% and 4x speedup for dense / sparse matrix multiplications compared to state-of-the-art method.
+
 ## Work Experience
 
-* Graduate Research Assistant, Georgia Institute of Technology
-  * 2018.1 - 2023.8
-  * Supervisor: Prof. [Edmond Chow](https://faculty.cc.gatech.edu/~echow/)
-* Software Engineer Intern, Meta (Facebook) Inc
-  * 2021.5 - 2021.8
-  * Supervisor: Dr. [Xing Liu](https://scholar.google.com/citations?user=ewRsKt4AAAAJ&hl=en)
-  * Analyzed the performance of different parallel Mixtures of Experts (MoE) layer implementations.
-  * Developed a PyTorch-based hybrid parallel MoE layer for a recommendation system.
-* Research Intern, Intel Corporation 
-  * 2020.8 - 2020.12
-  * Supervisor: Dr. [Jeff Hammond](https://jeffhammond.github.io/)
-  * Developed CU-PGAS: Partitioned global address space (PGAS) library using CUDA + MPI-3 for NVIDIA GPU.
-  * Developed CL-PGAS: Portable (Intel / NVIDIA / AMD) GPU PGAS library using SYCL + MPI-3.
-* Assistant Engineer, HPC Department of National Super-Computing Center in Shenzhen
-  * 2015.8 - 2015.9
-  * Supervisor: Dr. [Jianwen Liu](https://www.researchgate.net/profile/Jianwen_Liu) （刘建文博士）
+* Software Engineer Intern, Meta (Facebook) Inc (2021.5 - 2021.8, supervisor: Dr. [Xing Liu](https://scholar.google.com/citations?user=ewRsKt4AAAAJ&hl=en))
+  * Investigated different parallelization schemes of the Mixture of Experts (MoE) model.
+  * Implemented a PyTorch-based hybrid parallel MoE model for a recommendation system.
+  * Delivered a 6x speedup on 64 NVIDIA V100 GPUs compared to the existing MoE model deployed in production.
+* Research Intern, Intel Corporation (2020.8 - 2020.12, supervisor: Dr. [Jeff Hammond](https://jeffhammond.github.io/))
+  * Analyzed the code of Kokkos Remote Workspace and NVSHMEM.
+  * Designed and implemented CL-PGAS using SYCL + MPI-3, the first library in the industry enabling inter-node data transfer controlled by kernels running on Intel / NVIDIA / AMD GPUs.
+  * Achieved a 95 % performance level compared to NVIDIA’s proprietary library NVSHMEM.
+* Assistant Engineer, HPC Department of National Super-Computing Center in Shenzhen (2015.8 - 2015.9, supervisor: Dr. [Jianwen Liu](https://www.researchgate.net/profile/Jianwen_Liu) （刘建文博士)
   * Optimized the performance of two major applications in NSCC-SC: VASP (25%) and Amber (30%).
-  * Provided customer technical consultation and support.
+  * Provided 50+ customer technical consultation and support.
 
 ## Skills
 
-* Programming languages: C, C++, MATLAB, Fortran, Python, LaTeX
-* Frameworks and technologies: OpenMP, MPI, CUDA, OpenCL, SYCL, x86 intrinsic, ARM (NEON and SVE) intrinsic
+* Programming languages: C, C++, MATLAB, Fortran, Python
+* Frameworks and technologies: OpenMP, MPI, CUDA, OpenCL, SYCL, x86 intrinsics, ARM (NEON and SVE) intrinsics
 
 ## Publications
 
+Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Mi2kiPAAAAAJ&view_op=list_works&sortby=pubdate). The bibtex file for all my published papers can be downloaded [here](https://huanghua1994.github.io/files/huahuang_publications.bib).
+
 ### Submitted Papers and Preprints
 
-[S.2] *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*.
+[S.1] *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*.
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).
-
-[S.1] *An Adaptive Factorized Nystrom Preconditioner for Kernel Matrices*. 
-[Shifan Zhao](https://matherheart.github.io/), [Tianshi Xu](https://math.emory.edu/~txu41/), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).
 
 ## Peer-reviewed Conference Publications
 
 [C.3]  <span style="color:blue">**[SC 22]**</span> *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*.  
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2022.  
-[pdf](https://huanghua1994.github.io/files/SC22-Huang-Chow.pdf){: .btn} [ACM (includes presentation video)](https://dl.acm.org/doi/abs/10.5555/3571885.3571922){: .btn} 
+[pdf](https://huanghua1994.github.io/files/SC22-Huang-Chow.pdf){: .btn} [ACM (includes presentation video)](https://dl.acm.org/doi/abs/10.5555/3571885.3571922){: .btn}
 
 [C.2]  <span style="color:blue">**[IPDPS 19]**</span> *Overlapping Communications with Other Communications and its Application to Distributed Dense Matrix Computations*.
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
@@ -69,9 +68,14 @@ International Conference for High Performance Computing, Networking, Storage, an
 
 ## Peer-reviewed Journal Publications
 
+[J.8] <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *An Adaptive Factorized Nystrom Preconditioner for Kernel Matrices*.
+[Shifan Zhao](https://matherheart.github.io/), [Tianshi Xu](https://math.emory.edu/~txu41/), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).
+SIAM Journal on Scientific Computing *(accepted, to appear)*.
+[arXiv](https://arxiv.org/abs/2304.05460){: .btn}
+
 [J.7]  <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *Data-Driven Construction of Hierarchical Matrices with Nested Bases*.  
 [Difeng Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/DifengCai), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).  
-SIAM Journal on Scientific Computing *(accepted, to appear)*.  
+SIAM Journal on Scientific Computing (2023).  
 [pdf](https://huanghua1994.github.io/files/SIMAX-HiDR.pdf){: .btn} [SIAM](https://epubs.siam.org/doi/full/10.1137/22M1500848){: .btn}
 
 [J.6]  <span style="color:blue">**[J. Comput. Phys.]**</span> *A Hierarchical Matrix Approach for Computing Hydrodynamic Interactions*.  
@@ -105,6 +109,8 @@ Journal of Chemical Physics, 152, 024122 (2020).
 [pdf](https://huanghua1994.github.io/files/JCP-GTFock-Huang-Sherrill-Chow.pdf){: .btn} [AIP](https://pubs.aip.org/aip/jcp/article/152/2/024122/317608/Techniques-for-high-performance-construction-of){: .btn} 
 
 ## Contributed and Invited Talks
+
+Talks are listed in reverse chronological order.
 
 * Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication
   * invited talk at PP24: SIAM Conference on Parallel Processing for Scientific Computing (invited by Dr. [Georg Hager](https://hpc.fau.de/person/georg-hager/)), May 2024;
@@ -141,7 +147,7 @@ Journal of Chemical Physics, 152, 024122 (2020).
 
 ## Honors and Awards
 
-* 2023 ACM-IEEE CS George Michael Memorial HPC Fellowships Honorable Mention
+* **2023 ACM-IEEE CS George Michael Memorial HPC Fellowships Honorable Mention**
 * 2020 Sigma Xi Best M.S. Thesis Research Award (Sigma Xi Georgia Tech Chapter)
 * 2019 Georgia Tech Marshall D. Williamson Fellowship
 

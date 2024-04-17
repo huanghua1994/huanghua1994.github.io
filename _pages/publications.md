@@ -9,18 +9,15 @@ Publications are listed in reverse chronological order. The most up-to-date list
 
 ### Submitted Papers and Preprints
 
-[S.2] *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*.
+[S.1] *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*.
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).
-
-[S.1] *An Adaptive Factorized Nystrom Preconditioner for Kernel Matrices*. 
-[Shifan Zhao](https://matherheart.github.io/), [Tianshi Xu](https://math.emory.edu/~txu41/), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).
 
 ## Peer-reviewed Conference Publications
 
 [C.3]  <span style="color:blue">**[SC 22]**</span> *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*.  
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2022.  
-[pdf](https://huanghua1994.github.io/files/SC22-Huang-Chow.pdf){: .btn} [ACM (includes presentation video)](https://dl.acm.org/doi/abs/10.5555/3571885.3571922){: .btn} 
+[pdf](https://huanghua1994.github.io/files/SC22-Huang-Chow.pdf){: .btn} [ACM (includes presentation video)](https://dl.acm.org/doi/abs/10.5555/3571885.3571922){: .btn}
 
 [C.2]  <span style="color:blue">**[IPDPS 19]**</span> *Overlapping Communications with Other Communications and its Application to Distributed Dense Matrix Computations*.
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
@@ -34,9 +31,14 @@ International Conference for High Performance Computing, Networking, Storage, an
 
 ## Peer-reviewed Journal Publications
 
+[J.8] <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *An Adaptive Factorized Nystrom Preconditioner for Kernel Matrices*.
+[Shifan Zhao](https://matherheart.github.io/), [Tianshi Xu](https://math.emory.edu/~txu41/), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).
+SIAM Journal on Scientific Computing *(accepted, to appear)*.
+[arXiv](https://arxiv.org/abs/2304.05460){: .btn}
+
 [J.7]  <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *Data-Driven Construction of Hierarchical Matrices with Nested Bases*.  
 [Difeng Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/DifengCai), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).  
-SIAM Journal on Scientific Computing *(accepted, to appear)*.  
+SIAM Journal on Scientific Computing (2023).  
 [pdf](https://huanghua1994.github.io/files/SIMAX-HiDR.pdf){: .btn} [SIAM](https://epubs.siam.org/doi/full/10.1137/22M1500848){: .btn}
 
 [J.6]  <span style="color:blue">**[J. Comput. Phys.]**</span> *A Hierarchical Matrix Approach for Computing Hydrodynamic Interactions*.  

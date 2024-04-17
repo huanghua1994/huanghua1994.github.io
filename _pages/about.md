@@ -18,9 +18,9 @@ I received my B.S. in Information and Computing Science from [Sun Yat-Sen Univer
 
 My research interests include:
 
-* High-performance computing  and parallel computing;
-* Matrix computation;
+* High-performance computing and parallel computing;
+* Numerical linear algebra algorithms;
 * Computational chemistry;
-* Performance engineering.
+* Efficient algorithms for data science.
 
-I am always looking for new collaborators. Please don’t hesitate to reach out if you would like to hear more about my work or start a new collaboration! The best way to contact me is via email: huangh223 at gatech.edu / huangh1994 at outlook.com.
+I am always looking for new collaborators. Please don't hesitate to reach out if you would like to hear more about my work or start a new collaboration! The best way to contact me is via email: huangh223 at gatech.edu / huangh1994 at outlook.com.
