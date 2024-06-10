@@ -112,10 +112,10 @@ Journal of Chemical Physics, 152, 024122 (2020).
 
 Talks are listed in reverse chronological order.
 
-* Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication
-  * invited talk at PP24: SIAM Conference on Parallel Processing for Scientific Computing (invited by Dr. [Georg Hager](https://hpc.fau.de/person/georg-hager/)), May 2024;
-* New Parallel Algorithms for Quantum Chemistry and Large-Scale Matrix Computation
-  * invited talk at Sun Yat-sen University (invited by [Dr. Yutong Lu](https://ieeexplore.ieee.org/author/37539055600)), Sep 2023
+* *Adaptive factorized Nystrom preconditioner for kernel matrices*
+  * talk at Precond24: International Conference On Preconditioning Techniques For Scientific and Industrial Applications, June 2024;
+* *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*
+  * invited talk at PP24: SIAM Conference on Parallel Processing for Scientific Computing (invited by Dr. [Georg Hager](https://hpc.fau.de/person/georg-hager/)), March 2024;
 * *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*, held at various occasions including:
   * paper presentation at SC22: International Conference for High Performance Computing, Networking, Storage and Analysis, Nov 2022;
   * lightening talk at GSCS 2022: Georgia Scientific Computing Symposium, Feb 2022.
