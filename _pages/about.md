@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an engineer working at NVIDIA.
+I am a Developer Technology (DevTech) Engineer working at NVIDIA.
 
 Before joining NVIDIA, I received my:
 

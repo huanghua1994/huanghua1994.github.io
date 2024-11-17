@@ -4,7 +4,7 @@ collection: software
 excerpt: "GTMatrix is a portable and lightweight PGAS (partitioned global address space) matrix library written in C + MPI-3."
 ---
 
-[GTMatrix](https://github.com/gtfock-chem/GTMatrix) is a portable and lightweight PGAS (partitioned global address space) matrix library written in C + MPI-3. 
+[GTMatrix](https://github.com/gtfock-chem/GTMatrix) is a portable and lightweight PGAS (partitioned global address space) matrix library written in C + MPI-3.
 <!---more--->
 GTMatrix is used in [GTFock](https://github.com/gtfock-chem/GTFock) library to replace the [Global Arrays](https://hpc.pnl.gov/globalarrays/) library. GTMatrix provides fundamental functionality:
 
@@ -15,10 +15,8 @@ GTMatrix is used in [GTFock](https://github.com/gtfock-chem/GTFock) library to r
 GTMatrix supports three access modes:
 
 * Blocking access
-* Nonblocking access 
+* Nonblocking access
 * Batch access (new, not available in other PGAS frameworks)
-
-
 
 If you use GTMatrix in your work, please cite the following paper:
 

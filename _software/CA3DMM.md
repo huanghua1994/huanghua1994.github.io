@@ -4,7 +4,7 @@ collection: software
 excerpt: "CA3DMM is a parallel dense general matrix multiplication (GEMM) library."
 ---
 
-[CA3DMM](https://github.com/scalable-matrix/CA3DMM) is a parallel dense general matrix multiplication (GEMM) library. It is implemented in C + MPI + OpenMP/CUDA. It has optimal or near-optimal communication costs. 
+[CA3DMM](https://github.com/scalable-matrix/CA3DMM) is a parallel dense general matrix multiplication (GEMM) library. It is implemented in C + MPI + OpenMP/CUDA. It has optimal or near-optimal communication costs.
 
 <!---more--->
 

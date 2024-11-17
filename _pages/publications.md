@@ -7,12 +7,12 @@ author_profile: true
 
 Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Mi2kiPAAAAAJ&view_op=list_works&sortby=pubdate). The bibtex file for all my published papers can be downloaded [here](https://huanghua1994.github.io/files/huahuang_publications.bib).
 
-### Submitted Papers and Preprints
-
-[S.1] *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*.
-**Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).
-
 ## Peer-reviewed Conference Publications
+
+[C.4] <span style="color:blue">**[SC 24]**</span> *Many-Body Electronic Correlation Energy using Krylov Subspace Linear Solvers*.  
+[Shikhar Shah](https://orcid.org/0000-0002-7943-8907), [Boqin Zhang](https://scholar.google.com/citations?user=9YpTGugAAAAJ&hl=en), **Hua Huang**, [John E. Pask](https://people.llnl.gov/pask1), [Phanish Suryanarayana](https://ce.gatech.edu/directory/person/phanish-suryanarayana), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
+International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2024.  
+[pdf](https://huanghua1994.github.io/files/SC24-SPARC-RPA.pdf){: .btn} [IEEE](https://www.computer.org/csdl/proceedings-article/sc/2024/529100a946/21HUW7F4gI8){: .btn}
 
 [C.3]  <span style="color:blue">**[SC 22]**</span> *CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication*.  
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
@@ -31,14 +31,19 @@ International Conference for High Performance Computing, Networking, Storage, an
 
 ## Peer-reviewed Journal Publications
 
+[J.9] <span style="color:blue">**[IEEE Trans. Parallel Distrib. Syst]**</span> *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*.
+**Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
+IEEE Transactions on Parallel and Distributed Systems, 35(11), 1977-1988 (2024).  
+[pdf](https://huanghua1994.github.io/files/TPDS-CRP-SpMM.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/abstract/document/10660551){: .btn}
+
 [J.8] <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *An Adaptive Factorized Nystrom Preconditioner for Kernel Matrices*.
 [Shifan Zhao](https://matherheart.github.io/), [Tianshi Xu](https://math.emory.edu/~txu41/), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).  
-SIAM Journal on Scientific Computing **(accepted, to appear)**.  
-[arXiv](https://arxiv.org/abs/2304.05460){: .btn}
+SIAM Journal on Scientific Computing, 46(4), A2351-A2376 (2024).  
+[pdf](https://huanghua1994.github.io/files/SISC-AFN.pdf){: .btn} [SIAM](https://epubs.siam.org/doi/10.1137/23M1565139){: .btn}
 
 [J.7]  <span style="color:blue">**[SIAM J. Sci. Comput.]**</span> *Data-Driven Construction of Hierarchical Matrices with Nested Bases*.  
 [Difeng Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/DifengCai), **Hua Huang**, [Edmond Chow](https://faculty.cc.gatech.edu/~echow/), and [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html).  
-SIAM Journal on Scientific Computing (2023).  
+SIAM Journal on Scientific Computing, 46(2), S24-S50 (2024).  
 [pdf](https://huanghua1994.github.io/files/SIMAX-HiDR.pdf){: .btn} [SIAM](https://epubs.siam.org/doi/full/10.1137/22M1500848){: .btn}
 
 [J.6]  <span style="color:blue">**[J. Comput. Phys.]**</span> *A Hierarchical Matrix Approach for Computing Hydrodynamic Interactions*.  
@@ -58,16 +63,17 @@ SIAM Journal on Matrix Analysis and Applications, 42(2), 683–707 (2021).
 
 [J.3]  <span style="color:blue">**[ACM Trans. Math. Softw]**</span> *H2Pack: High-Performance H2 Matrix Package for Kernel Matrices Using the Proxy Point Method*.  
 **Hua Huang**, [Xin Xing](https://scholar.google.com/citations?hl=en&user=NBdb9XoAAAAJ&view_op=list_works&sortby=pubdate), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
-ACM Transactions on Mathematical Software, 47 (1), 1-29 (2020).  
+ACM Transactions on Mathematical Software, 47(1), 1-29 (2020).  
 [pdf](https://huanghua1994.github.io/files/ACMTOMS-H2Pack-Huang-Xing-Chow.pdf){: .btn} [ACM](https://dl.acm.org/doi/abs/10.1145/3412850){: .btn}
 
-[J.2]  <span style="color:blue">**[J. Chem. Phys.]**</span> *A Linear Scaling Hierarchical Block Low-rank Representation of the Electron Repulsion Integral Tensor*.   
+[J.2]  <span style="color:blue">**[J. Chem. Phys.]**</span> *A Linear Scaling Hierarchical Block Low-rank Representation of the Electron Repulsion Integral Tensor*.  
 [Xin Xing](https://scholar.google.com/citations?hl=en&user=NBdb9XoAAAAJ&view_op=list_works&sortby=pubdate), **Hua Huang**, and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
-Journal of Chemical Physics, 153, 084119 (2020).   
-[pdf](https://huanghua1994.github.io/files/JCP-H2ERI-Xing-Huang-Chow.pdf){: .btn} [AIP](https://pubs.aip.org/aip/jcp/article/153/8/084119/1061798/A-linear-scaling-hierarchical-block-low-rank){: .btn}    
+Journal of Chemical Physics, 153, 084119 (2020).  
+[pdf](https://huanghua1994.github.io/files/JCP-H2ERI-Xing-Huang-Chow.pdf){: .btn} [AIP](https://pubs.aip.org/aip/jcp/article/153/8/084119/1061798/A-linear-scaling-hierarchical-block-low-rank){: .btn}
 
 [J.1]  <span style="color:blue">**[J. Chem. Phys.]**</span> *Techniques for High-Performance Construction of Fock Matrices*.  
 **Hua Huang**, [David Sherrill](https://chemistry.gatech.edu/people/david-sherrill), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 Journal of Chemical Physics, 152, 024122 (2020).  
-[pdf](https://huanghua1994.github.io/files/JCP-GTFock-Huang-Sherrill-Chow.pdf){: .btn} [AIP](https://pubs.aip.org/aip/jcp/article/152/2/024122/317608/Techniques-for-high-performance-construction-of){: .btn} 
-Note: The PDF file here is an updated version. Compared to the published version, only column "GTFock density fitting $[J^{-1/2}]$ Build" in Table V in this PDF file is updated. Previously I used the standard eigensolver to compute $J^{-1/2}$, which is now replaced by the Cholesky decomposition. 
+[pdf](https://huanghua1994.github.io/files/JCP-GTFock-Huang-Sherrill-Chow.pdf){: .btn} [AIP](https://pubs.aip.org/aip/jcp/article/152/2/024122/317608/Techniques-for-high-performance-construction-of){: .btn}
+
+Note: The PDF file here is an updated version. Compared to the published version, only column "GTFock density fitting $[J^{-1/2}]$ Build" in Table V in this PDF file is updated. Previously I used the standard eigensolver to compute $J^{-1/2}$, which is now replaced by the Cholesky decomposition.
