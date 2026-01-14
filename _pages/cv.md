@@ -17,8 +17,8 @@ redirect_from:
 
 ## Skills
 
-* Programming languages: C, C++, MATLAB, Fortran, Python
-* Frameworks and technologies: OpenMP, MPI, CUDA, OpenCL, SYCL, x86 intrinsics, ARM (NEON and SVE) intrinsics
+* Programming languages: C, C++, CUDA, Python, MATLAB, Fortran
+* Frameworks and technologies: OpenMP, MPI, CuTeDSL, cuTile, Triton, x86 & ARM intrinsics
 
 ## Work Experience
 
@@ -42,7 +42,25 @@ redirect_from:
   * Developing the H2Pack library: up to 6x speedup over state-of-the-art FMM-based method in high-accuracy calculations, 90% memory usage reduction and a 7x speedup compared to contemporary methods for  quantum chemistry and hydrodynamic simulation calculations.
   * Designing parallel linear algebra algorithms: up to 25% and 4x speedup for dense / sparse matrix multiplications compared to state-of-the-art method.
 
+## Awards
+
+* George Michael Memorial HPC Fellowships (Honorable Mention), by ACM and IEEE-CS, 2023
+* Sigma Xi Best M.S. Thesis Research Award, by Sigma Xi Georgia Tech Chapter, 2020
+* Marshall D. Williamson Fellowship, by Georgia Tech, 2019
+
 ## Publications
+
+### Preprint and Submitted Manuscripts
+
+[P.2] <span style="color:blue">**[arXiv]**</span> *Accelerating Density Fitting with Adaptive-precision and 8-bit Integer on AI Accelerators*.  
+**Hua Huang**, Wenkai Shao, and [Jeff Hammond](https://jeffhammond.github.io/).  
+Submitted (2026).  
+[arXiv](http://arxiv.org/abs/2601.08077){: .btn}
+
+[P.1] <span style="color:blue">**[arXiv]**</span> *Preconditioned Truncated Single-Sample Estimators for Scalable Stochastic Optimization*.  
+[Tianshi Xu](https://math.emory.edu/~txu41/), [Difeng Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/DifengCai), **Hua Huang**, [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
+Submitted (2025).  
+[arXiv](https://arxiv.org/abs/2510.24587){: .btn}
 
 ### Peer-reviewed Conference Publications
 
@@ -67,6 +85,11 @@ International Conference for High Performance Computing, Networking, Storage, an
 [pdf](https://huanghua1994.github.io/files/SC18-Huang-Chow.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.5555/3291656.3291711){: .btn}
 
 ### Peer-reviewed Journal Publications
+
+[J.10] <span style="color:blue">**[J. Open Source Softw.]**</span> *HiGP: A high-performance Python package for Gaussian Process*.  
+**Hua Huang**, [Tianshi Xu](https://math.emory.edu/~txu41/), [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
+Journal of Open Source Software, 11(117), 8621 (2026).  
+[JOSS](https://joss.theoj.org/papers/10.21105/joss.08621){: .btn}
 
 [J.9] <span style="color:blue">**[IEEE Trans. Parallel Distrib. Syst]**</span> *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*.
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
@@ -112,3 +135,12 @@ Journal of Chemical Physics, 153, 084119 (2020).
 **Hua Huang**, [David Sherrill](https://chemistry.gatech.edu/people/david-sherrill), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 Journal of Chemical Physics, 152, 024122 (2020).  
 [pdf](https://huanghua1994.github.io/files/JCP-GTFock-Huang-Sherrill-Chow.pdf){: .btn} [AIP](https://pubs.aip.org/aip/jcp/article/152/2/024122/317608/Techniques-for-high-performance-construction-of){: .btn}
+
+## Professional Service
+
+* Reviewer for the series of International Conference for High‑Performance Computing, Networking, Storage, and Analysis (SC)
+  * SC26: technical paper committee, HPC for ML track
+  * SC25: technical paper committee, algorithm track
+  * SC24: AD/AE reproducibility committee
+* Reviewer for the 2024 IEEE International Parallel \& Distributed Processing Symposium (IPDPS24), Measurements, Modeling, and Experiments (MMEXP) paper track
+* Reviewer for the Journal of Supercomputing in 2024

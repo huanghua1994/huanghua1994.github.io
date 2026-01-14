@@ -7,6 +7,18 @@ author_profile: true
 
 Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=Mi2kiPAAAAAJ&view_op=list_works&sortby=pubdate). The bibtex file for all my published papers can be downloaded [here](https://huanghua1994.github.io/files/huahuang_publications.bib).
 
+### Preprint and Submitted Manuscripts
+
+[P.2] <span style="color:blue">**[arXiv]**</span> *Accelerating Density Fitting with Adaptive-precision and 8-bit Integer on AI Accelerators*.  
+**Hua Huang**, Wenkai Shao, and [Jeff Hammond](https://jeffhammond.github.io/).  
+Submitted (2026).  
+[arXiv](http://arxiv.org/abs/2601.08077){: .btn}
+
+[P.1] <span style="color:blue">**[arXiv]**</span> *Preconditioned Truncated Single-Sample Estimators for Scalable Stochastic Optimization*.  
+[Tianshi Xu](https://math.emory.edu/~txu41/), [Difeng Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/DifengCai), **Hua Huang**, [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
+Submitted (2025).  
+[arXiv](https://arxiv.org/abs/2510.24587){: .btn}
+
 ## Peer-reviewed Conference Publications
 
 [C.4] <span style="color:blue">**[SC 24]**</span> *Many-Body Electronic Correlation Energy using Krylov Subspace Linear Solvers*.  
@@ -30,6 +42,11 @@ International Conference for High Performance Computing, Networking, Storage, an
 [pdf](https://huanghua1994.github.io/files/SC18-Huang-Chow.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.5555/3291656.3291711){: .btn}
 
 ## Peer-reviewed Journal Publications
+
+[J.10] <span style="color:blue">**[J. Open Source Softw.]**</span> *HiGP: A high-performance Python package for Gaussian Process*.  
+**Hua Huang**, [Tianshi Xu](https://math.emory.edu/~txu41/), [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
+Journal of Open Source Software, 11(117), 8621 (2026).  
+[JOSS](https://joss.theoj.org/papers/10.21105/joss.08621){: .btn}
 
 [J.9] <span style="color:blue">**[IEEE Trans. Parallel Distrib. Syst]**</span> *Exploring the Design Space of Distributed Parallel Sparse Matrix‑Multiple Vector Multiplication*.
 **Hua Huang** and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
