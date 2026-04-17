@@ -9,11 +9,6 @@ Publications are listed in reverse chronological order. The most up-to-date list
 
 ### Preprint and Submitted Manuscripts
 
-[P.2] <span style="color:blue">**[arXiv]**</span> *Accelerating Density Fitting with Adaptive-precision and 8-bit Integer on AI Accelerators*.  
-**Hua Huang**, Wenkai Shao, and [Jeff Hammond](https://jeffhammond.github.io/).  
-Submitted (2026).  
-[arXiv](http://arxiv.org/abs/2601.08077){: .btn}
-
 [P.1] <span style="color:blue">**[arXiv]**</span> *Preconditioned Truncated Single-Sample Estimators for Scalable Stochastic Optimization*.  
 [Tianshi Xu](https://math.emory.edu/~txu41/), [Difeng Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/DifengCai), **Hua Huang**, [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
 Submitted (2025).  
@@ -42,6 +37,11 @@ International Conference for High Performance Computing, Networking, Storage, an
 [pdf](https://huanghua1994.github.io/files/SC18-Huang-Chow.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.5555/3291656.3291711){: .btn}
 
 ## Peer-reviewed Journal Publications
+
+[J.11] <span style="color:blue">**[J. Phys. Chem. A]**</span> *Accelerating Density Fitting with Adaptive-precision and 8-bit Integer on AI Accelerators*.  
+**Hua Huang**, Wenkai Shao, and [Jeff Hammond](https://jeffhammond.github.io/).  
+Journal of Physical Chemistry A, published (2026).  
+[pdf](https://huanghua1994.github.io/files/JPCA-MxP-DF.pdf) [ACS](https://pubs.acs.org/doi/10.1021/acs.jpca.6c00225){: .btn}
 
 [J.10] <span style="color:blue">**[J. Open Source Softw.]**</span> *HiGP: A high-performance Python package for Gaussian Process*.  
 **Hua Huang**, [Tianshi Xu](https://math.emory.edu/~txu41/), [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  

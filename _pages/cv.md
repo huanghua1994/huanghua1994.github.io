@@ -39,7 +39,7 @@ redirect_from:
 
 * Graduate Research Assistant, Georgia Institute of Technology (2018.1 - 2024.8, supervisor: Prof. [Edmond Chow](https://faculty.cc.gatech.edu/~echow/))
   * Accelerating quantum chemistry calculations: up to 6x overall speedup of Hartree-Fock calculation for a 1208-atom molecular system with multiple optimizations.
-  * Developing the H2Pack library: up to 6x speedup over state-of-the-art FMM-based method in high-accuracy calculations, 90% memory usage reduction and a 7x speedup compared to contemporary methods for  quantum chemistry and hydrodynamic simulation calculations.
+  * Developing the H2Pack library: up to 6x speedup over state-of-the-art FMM-based method in high-accuracy calculations, 90% memory usage reduction and a 7x speedup compared to contemporary methods for quantum chemistry and hydrodynamic simulation calculations.
   * Designing parallel linear algebra algorithms: up to 25% and 4x speedup for dense / sparse matrix multiplications compared to state-of-the-art method.
 
 ## Awards
@@ -51,11 +51,6 @@ redirect_from:
 ## Publications
 
 ### Preprint and Submitted Manuscripts
-
-[P.2] <span style="color:blue">**[arXiv]**</span> *Accelerating Density Fitting with Adaptive-precision and 8-bit Integer on AI Accelerators*.  
-**Hua Huang**, Wenkai Shao, and [Jeff Hammond](https://jeffhammond.github.io/).  
-Submitted (2026).  
-[arXiv](http://arxiv.org/abs/2601.08077){: .btn}
 
 [P.1] <span style="color:blue">**[arXiv]**</span> *Preconditioned Truncated Single-Sample Estimators for Scalable Stochastic Optimization*.  
 [Tianshi Xu](https://math.emory.edu/~txu41/), [Difeng Cai](https://www.smu.edu/Dedman/Academics/Departments/Math/People/Faculty/DifengCai), **Hua Huang**, [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
@@ -85,6 +80,11 @@ International Conference for High Performance Computing, Networking, Storage, an
 [pdf](https://huanghua1994.github.io/files/SC18-Huang-Chow.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.5555/3291656.3291711){: .btn}
 
 ### Peer-reviewed Journal Publications
+
+[J.11] <span style="color:blue">**[J. Phys. Chem. A]**</span> *Accelerating Density Fitting with Adaptive-precision and 8-bit Integer on AI Accelerators*.  
+**Hua Huang**, Wenkai Shao, and [Jeff Hammond](https://jeffhammond.github.io/).  
+Journal of Physical Chemistry A, published (2026).  
+[pdf](https://huanghua1994.github.io/files/JPCA-MxP-DF.pdf) [ACS](https://pubs.acs.org/doi/10.1021/acs.jpca.6c00225){: .btn}
 
 [J.10] <span style="color:blue">**[J. Open Source Softw.]**</span> *HiGP: A high-performance Python package for Gaussian Process*.  
 **Hua Huang**, [Tianshi Xu](https://math.emory.edu/~txu41/), [Yuanzhe Xi](http://www.math.emory.edu/~yxi26/index.html), and [Edmond Chow](https://faculty.cc.gatech.edu/~echow/).  
