@@ -7,7 +7,7 @@ author_profile: true
 
 My Erdős number is 5 (previous node: Prof. Edmond Chow)
 
-My best 5km run scores:
+My best 5km runs:
 
 * ~~22 minutes 57 seconds (2019 April 23, GaTech 2019 5km run, on-field)~~
 * ~~21 minutes 25 seconds (2023 Apr 23, GaTech 2023 5km run, on-field)~~
@@ -22,3 +22,4 @@ My GPG keys:
 Magic numbers you might see in my code (usually the random number seed):
 * `19241112`: 1924 November 12 is the establishment date of Sun Yat-sen University and the 57th birthday of [Dr. Sun Yat-sen](https://en.wikipedia.org/wiki/Sun_Yat-sen).
 * `33550336`: the fifth perfect number in mathematics, number of life cycles Phainon had in Amphoreus
+
